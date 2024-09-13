@@ -51,7 +51,14 @@ pip install requests python-dotenv twilio
 
    Note: Be sure to replace the placeholder values with your actual keys and phone numbers.
 
-3. **Run the App:**
+3. **Choose and Set Up the Constants for the Company (Company name and the company Stock name)**
+
+   ```
+   STOCK_NAME = "your_company_stock_simbol"
+   COMPANY_NAME = "your_company_name"
+   ```
+   
+4. **Run the App:**
 
    To run the stock news app, simply execute the following command in the terminal:
 
